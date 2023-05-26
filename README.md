@@ -6,4 +6,4 @@
 
 ## Development and Testing
 
-    *see npm scripts in package.json*
+*see npm scripts in package.json*
